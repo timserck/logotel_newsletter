@@ -3,7 +3,7 @@
 </tr>
 <tr>
     <td width="100%" style="background-color: #272727;">
-        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+        <table style="margin: 0; padding: 0;" cellpadding="0" cellspacing="0" border="0" width="100%">
             <tr>
                 <td width="8.33333333333%">&nbsp;</td>
                 <td width="83.3333333333%">
@@ -28,7 +28,7 @@
                 <tr>
                     <td width="8.33333333333%">&nbsp;</td>
                     <td width="83.3333333333%">
-                        <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                        <table style="margin: 0; padding: 0;"  cellpadding="0" cellspacing="0" border="0" width="100%">
                             <tr>
                                 <td width="100%" style="background-color: #272727; color:white;  font-family:'ArialMT Regular', sans-serif; font-size: 16px; font-weight: 400; text-align: left; line-height: 20px; letter-spacing: 0.1px;">
                                     Lorem ipsum dolor sit amet ed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
@@ -45,7 +45,7 @@
         </tr>
         <tr>
             <td width="100%" style="background-color: #272727;">
-                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                <table style="margin: 0; padding: 0;" cellpadding="0" cellspacing="0" border="0" width="100%">
                     <tr>
                         <td width="8.33333333333%">&nbsp;</td>
                         <td width="83.3333333333%">

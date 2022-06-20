@@ -18,11 +18,15 @@
                             <td width="83.3333333333%">
                                 <table style="direction:rtl;" class="body_center body_center-right" width="100%" cellpadding="0" cellspacing="0" border="0">
                                     <tr>
-                                    <td style="direction:ltr; position: relative;" width="36.6666666667%" align="center">
-                                        <img style="width: 182px; height: auto; z-index: 2; position: relative;" src="../imgs/tab/razzo.svg" alt="fusée">
-                                            <div style="border-radius: 50%; height: 194px; width: 194px; background: #28AFB0; position: absolute; top: 50%; left: 50%; margin-top: -97px; margin-left: -97px;"></div>
-
-                                        </td>  
+                                    <td style="direction:ltr;" width="36.6666666667%" align="center">
+                                            <table align="center" height="194" width="194" style="background: #28AFB0; border-radius: 50%; margin: 0; padding:0;" width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td>
+                                                    <img style="width: 182px; height: auto;"src="../imgs/tab/razzo.png" alt="fusée">
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
                                         <td style="direction:ltr;" class="m-hide" width="10%">
                                             &nbsp;
                                         </td>  

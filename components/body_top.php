@@ -1,6 +1,6 @@
 <tr>
     <td>
-        <table style="background: white;" cellpadding="0" cellspacing="0" border="0" width="100%">
+        <table style="background: white; margin: 0; padding: 0;" cellpadding="0" cellspacing="0" border="0" width="100%">
             <tr>
                 <tr>
                     <td height="60" width="100%" style="background-color: white;">&nbsp;</td>
@@ -10,18 +10,22 @@
                         <tr>
                             <td width="10%">&nbsp;</td>
                             <td width="83.3333333333%">
-                                <table class="body_center body_center-top" width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <table style="margin: 0; padding: 0" class="body_center body_center-top" width="100%" cellpadding="0" cellspacing="0" border="0">
                                     <tr>
-                                        <td style="position: relative;" width="36.6666666667%" align="center">
-
-                                            <img style="width: 182px; height: auto; z-index: 2; position: relative;" src="../imgs/tab/sveglia.svg" alt="reveil">
-                                            <div style="border-radius: 50%; height: 194px; width: 194px; background: #ED6562; position: absolute; top: 50%; left: 50%; margin-top: -97px; margin-left: -97px;"></div>
+                                        <td  width="36.6666666667%" align="center">
+                                        <table align="center" height="194" width="194" style="background: #ED6562; border-radius: 50%; margin: 0; padding:0;" width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td>
+                                                    <img style="width: 182px; height: auto;"src="../imgs/tab/sveglia.png" alt="reveil">
+                                                    </td>
+                                                </tr>
+                                            </table>
                                         </td>
                                         <td class="m-hide" width="10%">
                                             &nbsp;
                                         </td>
                                         <td width="36.6666666667%" align="center">
-                                            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                            <table style="margin: 0; padding: 0;" width="100%" cellpadding="0" cellspacing="0" border="0">
                                                 <tr>
                                                     <td style="font-family: 'Arial', sans-serif; font-size: 24px; color: #ED6562; line-height: 1.5;">Lorem Ipsum</td>
                                                 </tr>

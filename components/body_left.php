@@ -9,9 +9,14 @@
                             <td width="83.3333333333%">
                                 <table  class="body_center body_center-left" width="100%" cellpadding="0" cellspacing="0" border="0">
                                     <tr>
-                                        <td style=" position: relative;" width="36.6666666667%" align="center">
-                                            <img style="width: 182px; height: auto; z-index: 2; position: relative;" src="../imgs/tab/target.svg" alt="target">
-                                            <div style="border-radius: 50%; height: 194px; width: 194px; background: #E2CA40; position: absolute; top: 50%; left: 50%; margin-top: -97px; margin-left: -97px;"></div>
+                                        <td  width="36.6666666667%" align="center">
+                                            <table height="194" width="194" style="background: #E2CA40; border-radius: 50%; margin: 0; padding:0;" width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td>
+                                                    <img style="width: 182px; height: auto;" src="../imgs/tab/target.png" alt="target">
+                                                    </td>
+                                                </tr>
+                                            </table>
                                         </td>
                                         <td style="direction:ltr;" class="m-hide" width="10%">
                                             &nbsp;

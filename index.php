@@ -41,7 +41,7 @@
 </head>
 
 <body style="font-family: Arial,Helvetica Neue,Helvetica,sans-serif; margin: 0; padding: 0;">
-    <table width="100%" style="max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" id="bodyTable" cellpadding="0" cellspacing="0" border="0" align="center">
+    <table width="100%" style="margin: 0 auto; padding: 0; max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" id="bodyTable" cellpadding="0" cellspacing="0" border="0" align="center">
         <tbody>
             <tr>
                 <td>
