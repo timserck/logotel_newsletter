@@ -34,11 +34,11 @@
             <table class="footerLinks" style="margin: 0; padding: 0; background-color: #272727; font-family: 'Roboto Mono', monospace; font-weight:500; font-size: 12px;" cellpadding="0" cellspacing="0" border="0">
                 <tr>
                     <td><a style="color: #FFF; text-decoration: none;" target="_blank" href="https://google.com">Cancella iscrizione</a></td>
-                    <td>&nbsp;|&nbsp;</td>
+                    <td>&nbsp;<span class="m-hide">|</span>&nbsp;</td>
                     <td><a style="color: #FFF; text-decoration: none;" target="_blank" href="https://google.com">Condizioni di utilizzo</a></td>
-                    <td>&nbsp;|&nbsp;</td>
+                    <td>&nbsp;<span class="m-hide">|</span>&nbsp;</td>
                     <td><a style="color: #FFF; text-decoration: none;" target="_blank" href="https://google.com">Privacy</a></td>
-                    <td>&nbsp;|&nbsp;</td>
+                    <td>&nbsp;<span class="m-hide">|</span>&nbsp;</td>
                     <td><a style="color: #FFF; text-decoration: none;" target="_blank" href="https://google.com">Centro assistenza</a></td>
                 </tr>
             </table>
